@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1705202166 source:c:\users\argon\onedrive\bureau\programmation\c++\windows api\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<iostream>
+	"C:\Users\ARGON\OneDrive\Bureau\Programmation\C++\Windows API\MsgBox.h"
+	<winuser.h>
+	"C:\Users\ARGON\OneDrive\Bureau\Programmation\C++\Windows API\Window.h"
+	"C:\Users\ARGON\OneDrive\Bureau\Programmation\C++\Windows API\Button.h"
+
+1687829845 c:\users\argon\onedrive\bureau\programmation\c++\windows api\windows.h
+	<windows.h>
+	<string>
+	<iostream>
+
+1687829829 source:c:\users\argon\onedrive\bureau\programmation\c++\windows api\windows.cpp
+	"Windows.h"
+
+1687829364 c:\users\argon\onedrive\bureau\programmation\c++\windows api\msgbox.h
+	<windows.h>
+	<string>
+	<iostream>
+
+1687925953 source:c:\users\argon\onedrive\bureau\programmation\c++\windows api\msgbox.cpp
+	"MsgBox.h"
+
+1688002610 c:\users\argon\onedrive\bureau\programmation\c++\windows api\window.h
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1688003189 source:c:\users\argon\onedrive\bureau\programmation\c++\windows api\window.cpp
+	"Window.h"
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1688002816 c:\users\argon\onedrive\bureau\programmation\c++\windows api\button.h
+	<string>
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	"C:\Users\ARGON\OneDrive\Bureau\Programmation\C++\Windows API\Window.h"
+
+1688003009 source:c:\users\argon\onedrive\bureau\programmation\c++\windows api\button.cpp
+	<string>
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	"Button.h"
+	"Window.h"
+
